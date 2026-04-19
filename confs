@@ -1,0 +1,5 @@
+script Dask-IA enter game:Among-Us
+  wait 5 and click button "play" wait 3 and click button "online" wait 3 click button "enter-code"
+  wait 3 click text button "enter-code" and "enter-code:XPVQGG"
+  and wait 10 click button "join-game"
+  
